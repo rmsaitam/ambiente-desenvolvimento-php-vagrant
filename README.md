@@ -1,4 +1,4 @@
-Vagrant-Setup
+Ambiente de Desenvolvimento PHP automatizado com Vagrant
 ===========
 
 Servidor LAMP (Linux, Apache, MySQL, PHP)
