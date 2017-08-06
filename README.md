@@ -51,14 +51,11 @@ A instalação inicial pode ser feita de duas formas, sendo:
 
 
 
-
 2º -> Caso não tenha o Git instalado em sua máquina, acesse https://github.com/rmsaitam/ambiente-desenvolvimento-php-vagrant baixe o arquivo do projeto no formato .zip e descompacte-o onde desejar.
 
 * Abra seu Prompt/Terminal , acesse o diretorio que acabou de descompactar e rode o comando:
 
 - vagrant up
-
-
 
 
 Após este comando 'vagrant up', o Vagrant ficará responsavel por baixar o sistema operacional ( neste caso Ubuntu Server 64 ), configurar a máquina virtual no VirtualBox e posteriormente baixar, instalar e configurar todos os pacotes do script 'setup.sh' (Sim! A primeira vez realmente é um pouco mais demorado).

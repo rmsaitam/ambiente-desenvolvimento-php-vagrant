@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "---- Iniciando instalacao do ambiente de Desenvolvimento PHP ---"
+echo "----- Iniciando instalacao do ambiente de Desenvolvimento PHP ----"
 
 echo "--- Atualizando lista de pacotes ---"
 sudo apt-get update
